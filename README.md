@@ -8,7 +8,8 @@
 </div>
 -->
 
-# Hi! Welcome to Yang Zhang's Github Page. 👋
+![](https://komarev.com/ghpvc/?username=breez3young&color=blueviolet&abbreviated=true)
+# Welcome to Yang Zhang's Github Page. 👋
 ## Biography
 🔭 I’m currently a PhD student at Tsinghua University, fortunate to work closely with Dr. Chenjia Bai. I received my Bachelor’s degree in Automation at Tsinghua University, advised by Prof. Li Li.
 ## Research Interests
