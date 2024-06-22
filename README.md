@@ -8,7 +8,9 @@
 - Generative Modeling in RL, especially `Transformer` and `Diffusion Model`
 - Foundation models for reasoning and decision-making (i.e. Embodied AI)
 - Building Efficient World Models
+
 😄 I'm open to any kind of collaborations.
+
 😊 Feel free to contact me with email (z-yang21@mails.tsinghua.edu.cn) or wechat (YangZhang9470).
 
 <!--
