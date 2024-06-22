@@ -1,15 +1,4 @@
-<!--
-<div>
-    <kbd align="center" valign="center">
-        <a href="https://github.com/breez3young">
-        </a>
-        <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">GitHub actions</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </kbd>
-</div>
--->
-
 ![](https://komarev.com/ghpvc/?username=breez3young&color=blueviolet&abbreviated=true)
-# Welcome to Yang Zhang's Github Page. 👋
 ## Biography
 🔭 I’m currently a PhD student at Tsinghua University, fortunate to work closely with Dr. Chenjia Bai. I received my Bachelor’s degree in Automation at Tsinghua University, advised by Prof. Li Li.
 ## Research Interests
@@ -19,7 +8,7 @@
 - Generative Modeling in RL, especially `Transformer` and `Diffusion Model`
 - Foundation models for reasoning and decision-making (i.e. Embodied AI)
 - Building Efficient World Models
-
+😄 I'm open to any kind of collaborations.
 😊 Feel free to contact me with email (z-yang21@mails.tsinghua.edu.cn) or wechat (YangZhang9470).
 
 <!--
