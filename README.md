@@ -11,7 +11,7 @@
 
 😄 I'm open to any kind of collaborations.
 
-😊 Feel free to contact me with email (z-yang21@mails.tsinghua.edu.cn) or wechat (YangZhang9470).
+😊 Feel free to contact me with email (breezeyoung9470@gmail.com) or wechat (YangZhang9470).
 
 <!--
 **breez3young/breez3young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
