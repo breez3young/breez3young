@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=breez3young&color=blueviolet&abbreviated=true)
 ## Biography
-🔭 I’m currently a PhD student at Tsinghua University, fortunate to work closely with [Dr. Chenjia Bai](https://baichenjia.github.io/). I received my Bachelor’s degree in Automation at Tsinghua University, advised by Prof. Li Li.
+🔭 I’m currently a Ph.D. student at Tsinghua University, fortunate to work closely with [Dr. Chenjia Bai](https://baichenjia.github.io/). I received my Bachelor’s degree in Automation at Tsinghua University, advised by Prof. Li Li.
 ## Research Interests
 ✨ I aim to develop a general world model that can empower agents with intelligent, generalizable and interpretable decision-makinig capability. To this end, I mainly focus on:
 - Reinforcement Learning and its applications in the real world
