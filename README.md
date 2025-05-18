@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=breez3young&color=blueviolet&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=breez3young&color=blueviolet&style=flat)
 ## Biography
 🔭 I’m currently a Ph.D. student at Tsinghua University, fortunate to work closely with [Dr. Chenjia Bai](https://baichenjia.github.io/). I received my Bachelor’s degree in Automation at Tsinghua University, advised by Prof. Li Li.
 ## Research Interests
